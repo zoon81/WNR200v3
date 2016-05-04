@@ -1,4 +1,4 @@
-update=lun 02 may 2016 00:35:08 ACST
+update=mar 03 may 2016 04:48:39 ACST
 last_client=eeschema
 [eeschema]
 version=1
@@ -7,7 +7,7 @@ NetFmtName=
 RptD_X=0
 RptD_Y=100
 RptLab=1
-LabSize=60
+LabSize=43
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -47,3 +47,4 @@ LibName35=h20202dl-r
 LibName36=rj45_unshielded
 LibName37=h5du2562gtr-e3c
 LibName38=pwr_2v
+LibName39=pwr_a__2v6

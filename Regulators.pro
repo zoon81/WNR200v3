@@ -1,4 +1,4 @@
-update=dom 01 may 2016 17:31:50 ACST
+update=mar 03 may 2016 04:44:56 ACST
 last_client=eeschema
 [eeschema]
 version=1
@@ -53,3 +53,5 @@ LibName41=zt1412
 LibName42=pwr_3v3
 LibName43=pwr_1v2
 LibName44=pwr_2v
+LibName45=pwr_a__2v6
+LibName46=Regulators-cache
