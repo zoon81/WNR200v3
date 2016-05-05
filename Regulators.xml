@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\BAN1ZOLTAN803\workspace\WNR200v3\Regulators.sch</source>
+    <date>2016.05.05. 14:14:14</date>
+    <tool>Eeschema (2015-07-11 BZR 5925, Git c291b88)-product</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date>4 may 2016</date>
+        <source>Regulators.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J900">
+      <value>BARREL_JACK</value>
+      <libsource lib="conn" part="BARREL_JACK"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>571FA5A0</tstamp>
+    </comp>
+    <comp ref="T1">
+      <value>TR1-SO8</value>
+      <libsource lib="device" part="TR1-SO8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572118E5</tstamp>
+    </comp>
+    <comp ref="C414">
+      <value>220uF</value>
+      <libsource lib="Regulators-rescue" part="CP1-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57211921</tstamp>
+    </comp>
+    <comp ref="C110">
+      <value>10uF</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57211930</tstamp>
+    </comp>
+    <comp ref="C226">
+      <value>100nF</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721193F</tstamp>
+    </comp>
+    <comp ref="C109">
+      <value>100nF</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721194E</tstamp>
+    </comp>
+    <comp ref="C416">
+      <value>25uF</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721195D</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>ZT1412</value>
+      <libsource lib="Regulators-cache" part="ZT1412"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721201B</tstamp>
+    </comp>
+    <comp ref="D72">
+      <value>SK23</value>
+      <libsource lib="Regulators-cache" part="DIODESCH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57212195</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>INDUCTOR_SMALL</value>
+      <libsource lib="device" part="INDUCTOR_SMALL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572121A4</tstamp>
+    </comp>
+    <comp ref="C423">
+      <value>25uF</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57212251</tstamp>
+    </comp>
+    <comp ref="C415">
+      <value>100nF</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57212260</tstamp>
+    </comp>
+    <comp ref="R914">
+      <value>R</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57212395</tstamp>
+    </comp>
+    <comp ref="R913">
+      <value>R</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572123AE</tstamp>
+    </comp>
+    <comp ref="C617">
+      <value>100nF</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721272D</tstamp>
+    </comp>
+    <comp ref="C618">
+      <value>100nF</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57212802</tstamp>
+    </comp>
+    <comp ref="R680">
+      <value>R</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57212811</tstamp>
+    </comp>
+    <comp ref="SW5">
+      <value>SWITCH_INV</value>
+      <libsource lib="device" part="SWITCH_INV"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57212A64</tstamp>
+    </comp>
+    <comp ref="R60">
+      <value>1R</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57212AB9</tstamp>
+    </comp>
+    <comp ref="C331">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57212ADC</tstamp>
+    </comp>
+    <comp ref="R270">
+      <value>38K</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57212AF5</tstamp>
+    </comp>
+    <comp ref="R273">
+      <value>0R</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57212B13</tstamp>
+    </comp>
+    <comp ref="C612">
+      <value>10nF</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572130C2</tstamp>
+    </comp>
+    <comp ref="C107">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57213448</tstamp>
+    </comp>
+    <comp ref="C242">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57213457</tstamp>
+    </comp>
+    <comp ref="C237">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57213466</tstamp>
+    </comp>
+    <comp ref="C236">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572137B1</tstamp>
+    </comp>
+    <comp ref="VR3">
+      <value>RT8010</value>
+      <libsource lib="Regulators-cache" part="RT8010"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57213973</tstamp>
+    </comp>
+    <comp ref="L3">
+      <value>75uH</value>
+      <libsource lib="device" part="INDUCTOR_SMALL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57213A38</tstamp>
+    </comp>
+    <comp ref="C44">
+      <value>10nF</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57213A99</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>0R</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57213B5E</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>75R</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57213BD3</tstamp>
+    </comp>
+    <comp ref="C45">
+      <value>10nF</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57213BE2</tstamp>
+    </comp>
+    <comp ref="R51">
+      <value>300K</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57213BF1</tstamp>
+    </comp>
+    <comp ref="C78">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721403D</tstamp>
+    </comp>
+    <comp ref="C77">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57214056</tstamp>
+    </comp>
+    <comp ref="C76">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57214065</tstamp>
+    </comp>
+    <comp ref="C75">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57214074</tstamp>
+    </comp>
+    <comp ref="VR4">
+      <value>EUP3406</value>
+      <libsource lib="Regulators-cache" part="EUP3406"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721B826</tstamp>
+    </comp>
+    <comp ref="L5">
+      <value>24uH</value>
+      <libsource lib="device" part="INDUCTOR_SMALL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721B919</tstamp>
+    </comp>
+    <comp ref="R136">
+      <value>0R</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721B993</tstamp>
+    </comp>
+    <comp ref="R130">
+      <value>1K</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721BA15</tstamp>
+    </comp>
+    <comp ref="C151">
+      <value>70pF</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721BA24</tstamp>
+    </comp>
+    <comp ref="R129">
+      <value>38.7K</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721BA33</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>AME8805</value>
+      <libsource lib="regul" part="LM7912CT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721C8D8</tstamp>
+    </comp>
+    <comp ref="C417">
+      <value>200nF</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721C989</tstamp>
+    </comp>
+    <comp ref="C170">
+      <value>2uF</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721C998</tstamp>
+    </comp>
+    <comp ref="C115">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721D569</tstamp>
+    </comp>
+    <comp ref="C243">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721D57D</tstamp>
+    </comp>
+    <comp ref="C117">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721D591</tstamp>
+    </comp>
+    <comp ref="C217">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721D5AF</tstamp>
+    </comp>
+    <comp ref="C105">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721D5C3</tstamp>
+    </comp>
+    <comp ref="C250">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721D5E1</tstamp>
+    </comp>
+    <comp ref="C265">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721D5F5</tstamp>
+    </comp>
+    <comp ref="C108">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721D609</tstamp>
+    </comp>
+    <comp ref="C155">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721D61D</tstamp>
+    </comp>
+    <comp ref="R155">
+      <value>0R</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721F08D</tstamp>
+    </comp>
+    <comp ref="R75">
+      <value>0R</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721F0AB</tstamp>
+    </comp>
+    <comp ref="R74">
+      <value>0R</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721F0BA</tstamp>
+    </comp>
+    <comp ref="R152">
+      <value>0R</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5721F0C9</tstamp>
+    </comp>
+    <comp ref="C68">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57220162</tstamp>
+    </comp>
+    <comp ref="C69">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57220171</tstamp>
+    </comp>
+    <comp ref="C99">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57220180</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>0R</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5725935F</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>PNP</value>
+      <libsource lib="Regulators-cache" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727A7FF</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>PNP</value>
+      <libsource lib="Regulators-cache" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727A80C</tstamp>
+    </comp>
+    <comp ref="R151">
+      <value>0R</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727A814</tstamp>
+    </comp>
+    <comp ref="R154">
+      <value>0R</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5727B3B7</tstamp>
+    </comp>
+    <comp ref="R213">
+      <value>0R</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572A6EE9</tstamp>
+    </comp>
+    <comp ref="R214">
+      <value>0R</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572A7004</tstamp>
+    </comp>
+    <comp ref="R183">
+      <value>0R</value>
+      <libsource lib="Regulators-rescue" part="R-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572A7016</tstamp>
+    </comp>
+    <comp ref="C148">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572E1026</tstamp>
+    </comp>
+    <comp ref="C145">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572E102C</tstamp>
+    </comp>
+    <comp ref="C174">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572E1032</tstamp>
+    </comp>
+    <comp ref="C101">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572E1038</tstamp>
+    </comp>
+    <comp ref="C149">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572E1BA8</tstamp>
+    </comp>
+    <comp ref="C141">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572E1BAE</tstamp>
+    </comp>
+    <comp ref="C144">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572E1BB4</tstamp>
+    </comp>
+    <comp ref="C100">
+      <value>C</value>
+      <libsource lib="Regulators-rescue" part="C-RESCUE-Regulators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572E1BBA</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="device" part="SWITCH_INV">
+      <description>Switch inverseur</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SWITCH_INV</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="TR1-SO8">
+      <aliases>
+        <alias>TRANSFO-SO8</alias>
+      </aliases>
+      <fields>
+        <field name="Reference">T</field>
+        <field name="Value">TR1-SO8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AA" type="passive"/>
+        <pin num="4" name="AB" type="passive"/>
+        <pin num="5" name="SA" type="passive"/>
+        <pin num="8" name="SB" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="regul" part="LM7905CT">
+      <aliases>
+        <alias>LM7906CT</alias>
+        <alias>LM7908CT</alias>
+        <alias>LM7909CT</alias>
+        <alias>LM7910CT</alias>
+        <alias>LM7912CT</alias>
+        <alias>LM7915CT</alias>
+        <alias>LM7918CT</alias>
+        <alias>LM7924CT</alias>
+      </aliases>
+      <description>LM7905CT, Negative 1A 35V Linear Regulator, Fixed Output 5V, TO-220</description>
+      <docs>http://www.fairchildsemi.com/ds/LM/LM7905.pdf</docs>
+      <footprints>
+        <fp>TO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM7905CT</field>
+        <field name="Footprint">TO-220</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="IN" type="input"/>
+        <pin num="3" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="BARREL_JACK">
+      <description>DC Barrel Jack</description>
+      <fields>
+        <field name="Reference">CON</field>
+        <field name="Value">BARREL_JACK</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="INDUCTOR_SMALL">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">INDUCTOR_SMALL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulators-rescue" part="R-RESCUE-Regulators">
+      <footprints>
+        <fp>R?</fp>
+        <fp>SM0603</fp>
+        <fp>SM0805</fp>
+        <fp>R?-*</fp>
+        <fp>SM1206</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-RESCUE-Regulators</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulators-rescue" part="CP1-RESCUE-Regulators">
+      <footprints>
+        <fp>CP*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1-RESCUE-Regulators</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulators-rescue" part="C-RESCUE-Regulators">
+      <footprints>
+        <fp>SM*</fp>
+        <fp>C?</fp>
+        <fp>C1-1</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-RESCUE-Regulators</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulators-cache" part="DIODESCH">
+      <footprints>
+        <fp>D?</fp>
+        <fp>S*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODESCH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulators-cache" part="EUP3406">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">EUP3406</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="FB" type="input"/>
+        <pin num="3" name="SW" type="power_out"/>
+        <pin num="4" name="GND" type="power_out"/>
+        <pin num="5" name="EN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulators-cache" part="PNP">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">PNP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulators-cache" part="RT8010">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RT8010</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="NotConnected"/>
+        <pin num="2" name="EN" type="input"/>
+        <pin num="3" name="VIN" type="power_in"/>
+        <pin num="4" name="FB" type="input"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="6" name="LX" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulators-cache" part="ZT1412">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ZT1412</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="NotConnected"/>
+        <pin num="2" name="BS" type="input"/>
+        <pin num="3" name="NC" type="NotConnected"/>
+        <pin num="4" name="VIN" type="power_in"/>
+        <pin num="5" name="SW" type="power_out"/>
+        <pin num="6" name="GND" type="power_out"/>
+        <pin num="7" name="FB" type="input"/>
+        <pin num="8" name="COMP" type="input"/>
+        <pin num="9" name="EN" type="input"/>
+        <pin num="10" name="SS" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="regul">
+      <uri>C:\Program Files\KiCad\share\kicad\library\regul.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
+    </library>
+    <library logical="Regulators-cache">
+      <uri>C:\Users\BAN1ZOLTAN803\workspace\WNR200v3\Regulators-cache.lib</uri>
+    </library>
+    <library logical="Regulators-rescue">
+      <uri>C:\Users\BAN1ZOLTAN803\workspace\WNR200v3\Regulators-rescue.lib</uri>
+    </library>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="PWR_A__1V2_C">
+      <node ref="C68" pin="1"/>
+      <node ref="C69" pin="1"/>
+      <node ref="C99" pin="1"/>
+      <node ref="R74" pin="2"/>
+    </net>
+    <net code="2" name="PWR_A__1V2_D">
+      <node ref="R152" pin="2"/>
+    </net>
+    <net code="3" name="PWR_A__1V2_B">
+      <node ref="R75" pin="2"/>
+    </net>
+    <net code="4" name="PWR_A__1V2_A">
+      <node ref="R155" pin="2"/>
+    </net>
+    <net code="5" name="Net-(L3-Pad2)">
+      <node ref="R1" pin="1"/>
+      <node ref="L3" pin="2"/>
+    </net>
+    <net code="6" name="PWR_B__1V2_A">
+      <node ref="R136" pin="2"/>
+    </net>
+    <net code="7" name="PWR_2V">
+      <node ref="U6" pin="3"/>
+      <node ref="C170" pin="1"/>
+    </net>
+    <net code="8" name="PWR_3V3_A">
+      <node ref="C243" pin="1"/>
+      <node ref="C115" pin="1"/>
+      <node ref="Q2" pin="3"/>
+      <node ref="C217" pin="1"/>
+      <node ref="C117" pin="1"/>
+      <node ref="C417" pin="1"/>
+      <node ref="C105" pin="1"/>
+      <node ref="C250" pin="1"/>
+      <node ref="C265" pin="1"/>
+      <node ref="C108" pin="1"/>
+      <node ref="Q1" pin="3"/>
+      <node ref="C236" pin="1"/>
+      <node ref="C107" pin="1"/>
+      <node ref="C155" pin="1"/>
+      <node ref="C237" pin="1"/>
+      <node ref="R24" pin="2"/>
+      <node ref="C242" pin="1"/>
+      <node ref="VR4" pin="5"/>
+      <node ref="VR4" pin="1"/>
+      <node ref="U6" pin="2"/>
+      <node ref="VR3" pin="3"/>
+      <node ref="VR3" pin="2"/>
+      <node ref="C44" pin="1"/>
+    </net>
+    <net code="9" name="PWR_B__1V2_MAIN">
+      <node ref="R136" pin="1"/>
+    </net>
+    <net code="10" name="PWR_3V3_MAIN">
+      <node ref="R914" pin="1"/>
+      <node ref="R183" pin="1"/>
+      <node ref="L1" pin="2"/>
+      <node ref="R214" pin="1"/>
+      <node ref="R213" pin="1"/>
+      <node ref="C423" pin="1"/>
+      <node ref="C415" pin="1"/>
+      <node ref="R24" pin="1"/>
+    </net>
+    <net code="11" name="PWR_3V3_B">
+      <node ref="R213" pin="2"/>
+    </net>
+    <net code="12" name="PWR_3V3_C">
+      <node ref="R214" pin="2"/>
+    </net>
+    <net code="13" name="PWR_3V3_D">
+      <node ref="R183" pin="2"/>
+    </net>
+    <net code="14" name="PWR_2V6_A">
+      <node ref="C100" pin="1"/>
+      <node ref="C144" pin="1"/>
+      <node ref="C141" pin="1"/>
+      <node ref="C148" pin="1"/>
+      <node ref="C149" pin="1"/>
+      <node ref="C101" pin="1"/>
+      <node ref="C174" pin="1"/>
+      <node ref="C145" pin="1"/>
+      <node ref="R154" pin="2"/>
+    </net>
+    <net code="15" name="GND">
+      <node ref="C110" pin="2"/>
+      <node ref="R51" pin="2"/>
+      <node ref="C617" pin="2"/>
+      <node ref="R680" pin="2"/>
+      <node ref="T1" pin="5"/>
+      <node ref="C414" pin="2"/>
+      <node ref="VR3" pin="5"/>
+      <node ref="C226" pin="2"/>
+      <node ref="C109" pin="2"/>
+      <node ref="C236" pin="2"/>
+      <node ref="C237" pin="2"/>
+      <node ref="C242" pin="2"/>
+      <node ref="C416" pin="2"/>
+      <node ref="D72" pin="1"/>
+      <node ref="U7" pin="6"/>
+      <node ref="C107" pin="2"/>
+      <node ref="C612" pin="2"/>
+      <node ref="C423" pin="2"/>
+      <node ref="C415" pin="2"/>
+      <node ref="R913" pin="2"/>
+      <node ref="C331" pin="2"/>
+      <node ref="C115" pin="2"/>
+      <node ref="C243" pin="2"/>
+      <node ref="C117" pin="2"/>
+      <node ref="C217" pin="2"/>
+      <node ref="C105" pin="2"/>
+      <node ref="C250" pin="2"/>
+      <node ref="C265" pin="2"/>
+      <node ref="C170" pin="2"/>
+      <node ref="C417" pin="2"/>
+      <node ref="C69" pin="2"/>
+      <node ref="C99" pin="2"/>
+      <node ref="C68" pin="2"/>
+      <node ref="C78" pin="2"/>
+      <node ref="C77" pin="2"/>
+      <node ref="C76" pin="2"/>
+      <node ref="C75" pin="2"/>
+      <node ref="VR4" pin="4"/>
+      <node ref="R129" pin="1"/>
+      <node ref="C100" pin="2"/>
+      <node ref="C144" pin="2"/>
+      <node ref="C141" pin="2"/>
+      <node ref="C149" pin="2"/>
+      <node ref="C101" pin="2"/>
+      <node ref="C174" pin="2"/>
+      <node ref="C145" pin="2"/>
+      <node ref="U6" pin="1"/>
+      <node ref="C155" pin="2"/>
+      <node ref="C108" pin="2"/>
+      <node ref="C148" pin="2"/>
+    </net>
+    <net code="16" name="DDR_V_CTRL">
+      <node ref="R151" pin="1"/>
+    </net>
+    <net code="17" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2"/>
+      <node ref="Q2" pin="2"/>
+      <node ref="R151" pin="2"/>
+    </net>
+    <net code="18" name="PWR_1V2_MAIN">
+      <node ref="L5" pin="2"/>
+      <node ref="R130" pin="1"/>
+      <node ref="C151" pin="1"/>
+    </net>
+    <net code="19" name="PWR_2V6_MAIN">
+      <node ref="R154" pin="1"/>
+    </net>
+    <net code="20" name="PWR_A__2V6_MAIN">
+      <node ref="Q1" pin="1"/>
+      <node ref="Q2" pin="1"/>
+    </net>
+    <net code="21" name="Net-(C612-Pad1)">
+      <node ref="C612" pin="1"/>
+      <node ref="U7" pin="2"/>
+    </net>
+    <net code="22" name="Net-(R270-Pad2)">
+      <node ref="R273" pin="1"/>
+      <node ref="R270" pin="2"/>
+    </net>
+    <net code="23" name="Net-(C331-Pad1)">
+      <node ref="C331" pin="1"/>
+      <node ref="R270" pin="1"/>
+      <node ref="R60" pin="2"/>
+    </net>
+    <net code="24" name="FB_VR3">
+      <node ref="R51" pin="1"/>
+      <node ref="C45" pin="2"/>
+      <node ref="VR3" pin="4"/>
+      <node ref="R25" pin="2"/>
+    </net>
+    <net code="25" name="Net-(VR3-Pad1)">
+      <node ref="VR3" pin="1"/>
+    </net>
+    <net code="26" name="EN">
+      <node ref="U7" pin="9"/>
+      <node ref="R273" pin="2"/>
+    </net>
+    <net code="27" name="SW">
+      <node ref="L1" pin="1"/>
+      <node ref="U7" pin="5"/>
+      <node ref="D72" pin="2"/>
+    </net>
+    <net code="28" name="UNREGULATED_DC">
+      <node ref="C414" pin="1"/>
+      <node ref="T1" pin="4"/>
+      <node ref="C110" pin="1"/>
+      <node ref="C226" pin="1"/>
+      <node ref="C109" pin="1"/>
+      <node ref="C416" pin="1"/>
+      <node ref="U7" pin="4"/>
+    </net>
+    <net code="29" name="Net-(U7-Pad3)">
+      <node ref="U7" pin="3"/>
+    </net>
+    <net code="30" name="Net-(U7-Pad1)">
+      <node ref="U7" pin="1"/>
+    </net>
+    <net code="31" name="Net-(J900-Pad2)">
+      <node ref="J900" pin="3"/>
+      <node ref="J900" pin="2"/>
+      <node ref="T1" pin="8"/>
+    </net>
+    <net code="32" name="Net-(R60-Pad1)">
+      <node ref="SW5" pin="1"/>
+      <node ref="R60" pin="1"/>
+    </net>
+    <net code="33" name="Net-(C618-Pad2)">
+      <node ref="C618" pin="2"/>
+      <node ref="R680" pin="1"/>
+    </net>
+    <net code="34" name="Net-(C618-Pad1)">
+      <node ref="C618" pin="1"/>
+      <node ref="U7" pin="8"/>
+    </net>
+    <net code="35" name="Net-(C617-Pad1)">
+      <node ref="U7" pin="10"/>
+      <node ref="C617" pin="1"/>
+    </net>
+    <net code="36" name="FB">
+      <node ref="U7" pin="7"/>
+      <node ref="R913" pin="1"/>
+      <node ref="R914" pin="2"/>
+    </net>
+    <net code="37" name="Net-(J900-Pad1)">
+      <node ref="J900" pin="1"/>
+      <node ref="SW5" pin="2"/>
+      <node ref="SW5" pin="3"/>
+      <node ref="T1" pin="1"/>
+    </net>
+    <net code="38" name="Net-(C44-Pad2)">
+      <node ref="C44" pin="2"/>
+      <node ref="L3" pin="1"/>
+      <node ref="VR3" pin="6"/>
+    </net>
+    <net code="39" name="Net-(L5-Pad1)">
+      <node ref="L5" pin="1"/>
+      <node ref="VR4" pin="3"/>
+    </net>
+    <net code="40" name="Net-(C151-Pad2)">
+      <node ref="R129" pin="2"/>
+      <node ref="C151" pin="2"/>
+      <node ref="R130" pin="2"/>
+      <node ref="VR4" pin="2"/>
+    </net>
+    <net code="41" name="PWR_A__1V2_MAIN">
+      <node ref="R155" pin="1"/>
+      <node ref="C45" pin="1"/>
+      <node ref="R25" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="C75" pin="1"/>
+      <node ref="C76" pin="1"/>
+      <node ref="C77" pin="1"/>
+      <node ref="C78" pin="1"/>
+      <node ref="R75" pin="1"/>
+      <node ref="R74" pin="1"/>
+      <node ref="R152" pin="1"/>
+    </net>
+  </nets>
+</export>
