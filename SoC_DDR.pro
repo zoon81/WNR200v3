@@ -1,4 +1,4 @@
-update=mar 03 may 2016 04:48:39 ACST
+update=jue 05 may 2016 05:34:29 ACST
 last_client=eeschema
 [eeschema]
 version=1
@@ -48,3 +48,5 @@ LibName36=rj45_unshielded
 LibName37=h5du2562gtr-e3c
 LibName38=pwr_2v
 LibName39=pwr_a__2v6
+LibName40=dual_led
+LibName41=mx25l3206e
